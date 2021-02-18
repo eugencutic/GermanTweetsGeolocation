@@ -1,0 +1,6 @@
+nu_svr_lat: 
+    C=0.1, nu=0.3
+nu_svr_long: 
+    C=0.1, nu=0.7
+    C=0.01, nu=0.7
+    C=0.01, nu=0.7
